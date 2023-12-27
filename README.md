@@ -1,6 +1,6 @@
 ﻿# Task-Decentro
 
-#To start start the project ,
+# To start start the project ,
  goto root folder then enter -- npm install
  after that enter -- npm start
 
