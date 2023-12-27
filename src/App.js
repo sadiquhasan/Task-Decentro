@@ -21,7 +21,7 @@ function App() {
           className="btn btn-link mx-3"
           onClick={() => setTask(true)}
         >
-          Task
+          Table
         </buton>
       </div>
 
